@@ -1,3 +1,3 @@
 sudo chmod 666 /dev/ttyUSB0
-/home/sidd/Desktop/siddharth/accgps
+/home/Desktop/accgps
  exit 0
